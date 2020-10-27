@@ -81,19 +81,19 @@ else
   p 0
 end
 
-10
-a = 15
-if a > 80
-  p 5
-elsif a > 60
-  p 4
-elsif a > 40
-  p 3
-elsif a > 20
-  p 2
-else
-  p 1
-end
+# 10
+# a = 15
+# if a > 80
+#   p 5
+# elsif a > 60
+#   p 4
+# elsif a > 40
+#   p 3
+# elsif a > 20
+#   p 2
+# else
+#   p 1
+# end
 
 
 
